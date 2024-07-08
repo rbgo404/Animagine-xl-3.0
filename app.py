@@ -6,7 +6,6 @@ from diffusers import (
 )
 from io import BytesIO
 import base64
-import os
 
 
 class InferlessPythonModel:
